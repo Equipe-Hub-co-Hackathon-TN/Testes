@@ -1,7 +1,7 @@
 
 ### AvalGestMain
 
-## Teste do Contrato para o Smart Contract AvalGestMain
+## Teste do Contrato  AvalGestMain
 
 ### Configuração Inicial
 * Deploy do contrato AvalGestMain. (Pode ser feito utilizando a ferramenta Remix - https://remix-project.org/ ou publicado direto em uma testnet ou produção compativel com EVM)
@@ -42,7 +42,7 @@
 
 ----------------------------------------------------------------
 
-## Teste do Contrato para o Smart Contract AvalGestFiatLoan
+## Teste do Contrato  AvalGestFiatLoan
 
 ### Configuração Inicial
 * Deploy do contrato AvalGestFiatLoan.  (Pode ser feito utilizando a ferramenta Remix - https://remix-project.org/ ou publicado direto em uma testnet ou produção compativel com EVM)
@@ -88,7 +88,7 @@
 
 -------------------------------------------------------
 
-# Roteiro de Teste para o Smart Contract AvalGestBailInsurance
+# Teste do contrato AvalGestBailInsurance
 
 ## 1. Configuração Inicial:
 
